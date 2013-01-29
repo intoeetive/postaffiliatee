@@ -1,0 +1,7 @@
+This addon provides some basic integration between ExpressionEngine and PostAffiliate Pro.
+
+When user is logged in to EE, and there is linked account in PAP - PAP user is also logged in.
+
+When EE member profile is edited (using Solspace User), member profile in PAP is also updated.
+
+There are no docs available (though everyhting should be intuitive). Support is not provided.
